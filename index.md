@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 # welcome to PACHIMON
 welcome to the official pachimon github page,this is the only one, unless at my district it gets blocked
