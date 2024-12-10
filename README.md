@@ -1,9 +1,11 @@
-# welcome to PACHIMON
-welcome to the official pachimon github page,this is the only one, unless at my district it gets blocked
+[back](pachimonedu.github.con/home)
+## Welcome to PACHIGAMES
+  [SLOPE](https://pachimonedu.github.io/SI0p3-92m3/)
+  
+[2048](https://pachimonedu.github.io/vh/)
 
-this is the Best page for raw fun, don’t whine, people can have fun
 
-i try my best to update this as much as possible, if it updates, i would tell you
 
-enjoy :D
-[PLAY](another-page.md)
+
+
+enjoy!
