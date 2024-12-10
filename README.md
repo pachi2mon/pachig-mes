@@ -3,7 +3,7 @@ welcome to the official pachimon github page,this is the only one, unless at my 
 
 this is the Best page for raw fun, don’t whine, people can have fun
 
-i try my best to update this as muh as possible, if it updates, i would tell you
+i try my best to update this as much as possible, if it updates, i would tell you
 
 enjoy :D
 [PLAY](another-page.md)
